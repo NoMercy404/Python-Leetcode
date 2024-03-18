@@ -1,1 +1,1 @@
-# Python-Leetcode
+# Leetcode tasks in Python
